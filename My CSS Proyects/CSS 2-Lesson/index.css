@@ -1,0 +1,62 @@
+.x{background: url(img/ronaldo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+h1{color: aliceblue;
+    text-align: center;}
+p{color:rgb(38, 99, 255);}
+.flex{text-align: center}
+   
+.flex2{text-align: center;
+}
+.flex3{text-align: center;}
+.a{background: url(img/car.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.b{color: rgb(227, 252, 0);
+text-align: center;
+text-decoration: overline;
+width: 25%;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    border: 5px double greenyellow;
+}
+.d{color:aqua ;}
+.e{text-align: center;}
+.f{text-align: center;
+color: darksalmon;}
+.g{text-align: center;}
+.h{color:greenyellow;
+text-align: center;}
+.i{text-align: center;}
+ .m{background: url(img/color.jpg); 
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;}
+.flex4{width: 550px; 
+    height:450px;
+    border: 10px double red;
+    margin:auto ;}
+    .con{width: 10% ;
+        text-align: center;
+        margin: auto ;
+       padding: 100px;
+       border: 3px solid red;
+      }
+      .q{
+        background-color: azure;
+        color: black;
+        border: 1px solid #222; 
+         padding: 5px 10px; 
+        order:radius 10px;
+    
+    } 
+    .q :hover{
+        cursor:pointer;
+        background-color: black;
+        color: azure;
+    }

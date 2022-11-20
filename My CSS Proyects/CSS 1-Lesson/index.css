@@ -1,0 +1,31 @@
+h1{color: rgb(174, 255, 0);
+font-size: 50px;
+text-align: center;
+font-family: cursive
+}
+
+p{color:aqua;
+    font-size:medium;
+    text-align: center;
+    
+}
+.picture{
+    text-align: center;
+}
+.matn{color:deepskyblue;
+    font-size: medium;
+    text-align: center;
+}
+.a{text-align: start;
+
+}
+.b{color: chartreuse;
+    text-align: center;
+
+}
+.c{text-align: end;
+
+}
+.b{background-color:slategray
+
+}

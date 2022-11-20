@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+    /* border: 3px solid red; */
+    width: 25%;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background: url(Picture/1.jpg) ;
+   }
+form{
+    text-align: center;
+    /* border: 3px solid red; */
+    border-radius: 20px;
+    margin: auto; 
+    width: 400px;
+    padding:20px 0 20px 0 ;
+    background: url(Picture/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: yellow;
+      }
+form input{
+    padding: 10px 30px; 
+    outline: none;
+    border-radius: 15px 0 15px 0;
+         }
+form input:focus{
+    border-radius: 60px;
+    background-color: aqua;
+    }
+form input:hover{
+    border-radius: 35px 35px 0 0;
+    background-color: wheat;
+}
+body{
+    background:url(Picture/3.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+.btn{
+    background-color: blue;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+    }
+.btn:hover{
+    border-radius: 60px;
+    background-color: aqua;
+          }
+h1:hover{
+    cursor: pointer;
+    border-radius: 20px 0 20px 0;
+    background-color: aqua;
+    color: rgb(0, 4, 255);
+    background: url(Picture/2.jpg);
+        }
+form:hover{
+    background: url(Picture/1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: red;
+         }
+body:focus{
+    background:url(Picture/2.jpg);
+}
